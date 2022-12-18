@@ -12,26 +12,25 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const parithi = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "C", "Python", "Java"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography","Game"],
     technologies: {
-        mobileApp: ["Android App"],
+        webApp: ["MERN"],
         frontEnd: {
-            js: ["Vue", "Nuxt"],
+            js: ["react"],
             css: ["materialize", "vuetify", "bootstrap"]
         },
         backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
+            js: ["node", "express"],
+            python: ["django"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        Designing: ["figma","photoshop"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
+    currentProject: "I am working on my final year project",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
@@ -74,4 +73,4 @@ Windows                  17 hrs 5 mins       ███████████�
 ```
 <!--END_SECTION:waka-->
 
-**These Readme stats are generated using Github Action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+
