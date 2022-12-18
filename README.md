@@ -3,7 +3,7 @@
 <p><em>Associate Developer intern at <a href="https://www.payoda.com/">Payoda</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)
+![Twitter Follow](https://img.shields.io/twitter/follow/potter_parithi?label=parithi&style=social)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
@@ -58,14 +58,13 @@ const parithi = {
 💬 Languages: 
 JavaScript               6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
 Python                   2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-PHP                      2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
-Markdown                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
-YAML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.87%
+JAVA                     2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
+
 
 🔥 Editors: 
-WebStorm                 9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
+VSCode                   9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
 PyCharm                  5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.71% 
-PhpStorm                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
+Atom                     2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
 
 💻 Operating Systems: 
 Windows                  17 hrs 5 mins       █████████████████████████   100.0%
